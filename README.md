@@ -57,7 +57,9 @@ Data is stored in a database using **SQLAlchemy**, which supports CRUD operation
 ## Usage
 
 To run the project, open a terminal and execute the following command:
-
+```bash
+git clone https://github.com/smorkl/project-HBNB.git
+```
 ```bash
 cd backend
 python3 run.py
@@ -119,5 +121,3 @@ All specific requirements are listed in `requirements.txt`. Install them by runn
 - [Author sebastian meneses salazar]
 
 ---
-
-This README provides a clear and organized overview of the project, explaining how to install, run, and understand its structure to make it easy to use and navigate.
