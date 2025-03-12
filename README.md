@@ -112,7 +112,8 @@ hbnb/
 
 - Python 3.x
 - SQLAlchemy
-- Flask (or the framework used for the API)
+- Flask
+- SQLlite
 
 All specific requirements are listed in `requirements.txt`. Install them by running `pip install -r requirements.txt`.
 
