@@ -59,9 +59,13 @@ Data is stored in a database using **SQLAlchemy**, which supports CRUD operation
 To run the project, open a terminal and execute the following command:
 
 ```bash
+cd backend
 python3 run.py
 ```
-
+```bash
+cd frontend
+python -m http.server 8000
+```
 ## Project Architecture
 
 The project follows a three-layer architecture pattern, which helps keep the code organized, scalable, and modular:
