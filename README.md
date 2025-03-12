@@ -107,6 +107,7 @@ hbnb/
 ├── requirements.txt                # Project dependencies
 ├── README.md                       # Project documentation
 ```
+![Screenshot 2025-03-11 203453](https://github.com/user-attachments/assets/c8346136-8f36-45e5-b04c-2cd849377e7f)
 
 ## Requirements
 
